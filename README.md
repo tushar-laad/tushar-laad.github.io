@@ -1,2 +1,1 @@
-# tushar-laad.github.io
-github pages
+## Azure Bootcamp 2022 Mumbai 
