@@ -1,1 +1,1 @@
-# Azure Bootcamp 2022 Mumbai
+# Azure Functions and Serverless
