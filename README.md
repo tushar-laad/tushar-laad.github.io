@@ -74,3 +74,21 @@ func --version
 az --version
 
 ```
+
+# 1
+
+### Create function Project
+
+```bash
+
+func init typescriptFunctionProj --typescript
+
+cd typescriptFunctionProj
+
+func new --name HttpExample --template "HTTP trigger" --authlevel "anonymous"
+
+npm install
+
+npm start
+
+```
