@@ -61,6 +61,10 @@ npm i -g azure-functions-core-tools@4 --unsafe-perm true
 
 Azure Functions - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
 
+Azure Databases - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb
+
+Azure Resources - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups
+
 ## Check
 
 ```bash
