@@ -92,3 +92,19 @@ npm install
 npm start
 
 ```
+
+### Deploy to Azure Cloud
+
+# 2
+
+### Input Bindings
+
+### Output Bindings
+
+# 3
+
+### Connect to Database
+
+# 4 
+
+### Static Web App
